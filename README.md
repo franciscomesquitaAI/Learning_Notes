@@ -1,5 +1,5 @@
 # Learning_Notes
-All notes I took in Obsidian studying a wide variety of topics, with a major focus on Machine Learning, Data Science, and computer-related subjects. “Study hard what interests you most, in the most undisciplined, irreverent, and original manner possible.” :D
+“Study hard what interests you most, in the most undisciplined, irreverent, and original manner possible.”
 
 Inside each folder there is a .md file.
 
