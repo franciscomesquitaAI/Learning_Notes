@@ -50,3 +50,4 @@ The Bongard Problems have been used in educational and research contexts, and ha
 
 
 **Many more examples with solutions here:** [https://www.foundalis.com/res/bps/bpidx.htm](https://www.foundalis.com/res/bps/bpidx.htm)
+
