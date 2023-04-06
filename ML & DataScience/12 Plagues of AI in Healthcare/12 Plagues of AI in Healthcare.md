@@ -26,7 +26,7 @@ attachment:
 ---
 # The 12 plagues in healthcare 
 
-![[image.png | 500]]
+![](assets/image.png)
 
 ---
 # Problems in AI healthcare models
