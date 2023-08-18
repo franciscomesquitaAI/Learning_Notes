@@ -7,7 +7,7 @@ attachment:
   folder: 'Other Topics/Dunning-Kruger effect/assets'
 ---
 
-# Fonts
+# Sources
 - https://www.verywellmind.com/an-overview-of-the-dunning-kruger-effect-4160740
 
 ---
