@@ -3,7 +3,7 @@ share: true
 path: 'Science Related Topics/Mathematics/Papers and Web articles/10 Hardest Math Problems That Remain Unsolved'
 attachment:
   send: true
-  folder: 'Science Related/10 Hardest Math Problems That Remain Unsolved/assets'
+  folder: 'Science Related Topics/Mathematics/Papers and Web articles/10 Hardest Math Problems That Remain Unsolved/assets'
 ---
 # Sources:
 Notes from the following web article: https://www.popularmechanics.com/science/math/g29251596/impossible-math-problems/
