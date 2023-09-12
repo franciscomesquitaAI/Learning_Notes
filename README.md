@@ -1,5 +1,4 @@
 # Learning_Notes
-“Study hard what interests you most, in the most undisciplined, irreverent, and original manner possible.” - Richard Feynman
 
 Inside each folder there is a .md file.
 
