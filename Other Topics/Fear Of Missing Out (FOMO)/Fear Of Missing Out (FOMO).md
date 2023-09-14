@@ -7,6 +7,10 @@ attachment:
   send: true
   folder: 'Other Topics/Fear Of Missing Out (FOMO)/assets'
 ---
+
+# Fear Of Missing Out (FOMO)
+
+
 # Sources
 
 - https://www.verywellmind.com/how-to-cope-with-fomo-4174664
