@@ -85,7 +85,7 @@ Unsurprisingly, adolescents use social networking sites at a high rate and may e
 
 One study in the _Psychiatry Research_ journal found that the fear of missing out was linked to greater smartphone and social media usage and that this link was not associated with age or gender. https://linkinghub.elsevier.com/retrieve/pii/S0165178117309010
 
-FOMO can contribute to peer pressure, leading teens to engage in risky behaviors they might otherwise avoid. Because the <mark class="hltr-yellow"><u>teenage brain is still developing, teens may engage in such actions without considering the lasting consequences.</u></mark>
+FOMO can contribute to peer pressure, leading teens to engage in risky behaviors they might otherwise avoid. Because the <u>teenage brain is still developing, teens may engage in such actions without considering the lasting consequences.</u>
 
 ## Life Satisfaction Rating
 
