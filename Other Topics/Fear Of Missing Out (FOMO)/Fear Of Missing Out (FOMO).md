@@ -32,11 +32,11 @@ https://www.studysmarter.co.uk/magazine/fomo/
 
 The idea that you might be missing out on a good time is not new to our era. However, while it has presumably been around for centuries (you can see evidence of FOMO in ancient texts), it has only been studied during the past few decades, beginning with a 1996 research paper by marketing strategist, Dr. Dan Herman, who coined the term "fear of missing out." https://link.springer.com/article/10.1057/bm.2000.23
 
-Since the advent of social media, however, FOMO has become more obvious and has been studied more often. Social media has accelerated the FOMO phenomenon in several ways. <mark class="hltr-yellow">t provides a situation in which you are comparing your regular life to the highlights of others' lives.</mark>
+Since the advent of social media, however, FOMO has become more obvious and has been studied more often. Social media has accelerated the FOMO phenomenon in several ways. <mark class="hltr-yellow"> <u>It provides a situation in which you are comparing your regular life to the highlights of others' lives</u>.</mark>
 
-<mark class="hltr-yellow">Therefore, your sense of "normal" becomes skewed and you seem to be doing worse than your peers.</mark> You might see detailed photos of your friends enjoying fun times without you, which is something that people may not have been so readily aware of in past generations.
+<mark class="hltr-yellow"><u>Therefore, your sense of "normal" becomes skewed and you seem to be doing worse than your peers.</u></mark> You might see detailed photos of your friends enjoying fun times without you, which is something that people may not have been so readily aware of in past generations.
 
-<mark class="hltr-yellow">Social media creates a platform for bragging; it is where things, events, and even happiness itself seems to be in competition at times.</mark> People are comparing their best, picture-perfect experiences, which may lead you to wonder what you are lacking.
+<mark class="hltr-yellow"><u>Social media creates a platform for bragging; it is where things, events, and even happiness itself seems to be in competition at times.</u></mark> People are comparing their best, picture-perfect experiences, which may lead you to wonder what you are lacking.
 
 FOMO, or the fear of missing out, isn't a recent phenomenon born with social media; it has deeper historical roots. Erin Vogel, Ph.D., a social psychologist and associate professor at the University of Oklahoma Health Sciences Center, highlights that the need to belong to a group has always been a fundamental human desire. Dr. Vogel also points out that our self-esteem is closely tied to our sense of belonging and approval from a community. When we feel accepted and approved by our peers, our self-esteem thrives, but when we lack that approval, our self-esteem can take a hit.
 
@@ -75,7 +75,7 @@ https://www.vecteezy.com/vector-art/2072683-symptoms-of-fomo-infographic
 As more research on FOMO is conducted and becomes available, we are getting a clearer picture of what it entails and how it affects us. The picture is not pretty, as there are many negative effects of FOMO, and it is more common than you might expect. Consider the following:
 ## Social Networking Sites
 
-Unsurprisingly, adolescents use social networking sites at a high rate and may experience FOMO as a result. Interestingly, however, FOMO acts as a mechanism that triggers higher social networking usage. <mark class="hltr-yellow">Basically, it's an infinite loop that the excessive use of social networks causes various psychological problems and these problems lead to even greater use of social networks.</mark> You could call this an "Ouroboros" condition:
+Unsurprisingly, adolescents use social networking sites at a high rate and may experience FOMO as a result. Interestingly, however, FOMO acts as a mechanism that triggers higher social networking usage. <mark class="hltr-yellow"><u>Basically, it's an infinite loop that the excessive use of social networks causes various psychological problems and these problems lead to even greater use of social networks.</u></mark> You could call this an "Ouroboros" condition:
 
 > [!ai]+ AI
 >
@@ -85,7 +85,7 @@ Unsurprisingly, adolescents use social networking sites at a high rate and may e
 
 One study in the _Psychiatry Research_ journal found that the fear of missing out was linked to greater smartphone and social media usage and that this link was not associated with age or gender. https://linkinghub.elsevier.com/retrieve/pii/S0165178117309010
 
-FOMO can contribute to peer pressure, leading teens to engage in risky behaviors they might otherwise avoid. Because the <mark class="hltr-yellow">teenage brain is still developing, teens may engage in such actions without considering the lasting consequences.</mark>
+FOMO can contribute to peer pressure, leading teens to engage in risky behaviors they might otherwise avoid. Because the <mark class="hltr-yellow"><u>teenage brain is still developing, teens may engage in such actions without considering the lasting consequences.</u></mark>
 
 ## Life Satisfaction Rating
 
