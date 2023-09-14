@@ -65,6 +65,7 @@ Even though FOMO is not currently a diagnosable condition, it can have specific 
 - Feeling physically tired, sad, anxious or depressed
 
 ![](../../assets/Fear%20Of%20Missing%20Out%20(FOMO)-1.png)
+
 https://www.vecteezy.com/vector-art/2072683-symptoms-of-fomo-infographic
 
 ---
