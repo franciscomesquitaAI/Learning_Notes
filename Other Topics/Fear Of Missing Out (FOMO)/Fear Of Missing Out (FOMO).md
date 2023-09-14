@@ -22,7 +22,7 @@ attachment:
 >
 > FOMO, or Fear of Missing Out, is a psychological syndrome characterized by the fear or anxiety of missing out on social events, experiences, or opportunities. It is often fueled by social media platforms and the constant exposure to others' activities and achievements. People with FOMO may feel a strong desire to be constantly connected and involved in order to avoid feelings of exclusion or regret. This syndrome can lead to excessive use of social media, impulsive behavior, and difficulty in enjoying the present moment.
 
-![](../../assets/Fear%20Of%20Missing%20Out%20(FOMO)-2.png)
+![](assets/Fear%20Of%20Missing%20Out%20(FOMO)-2.png)
 https://www.studysmarter.co.uk/magazine/fomo/
 
 
@@ -64,7 +64,7 @@ Even though FOMO is not currently a diagnosable condition, it can have specific 
 - Difficulty concentrating
 - Feeling physically tired, sad, anxious or depressed
 
-![](../../assets/Fear%20Of%20Missing%20Out%20(FOMO)-1.png)
+![](assets/Fear%20Of%20Missing%20Out%20(FOMO)-1.png)
 
 https://www.vecteezy.com/vector-art/2072683-symptoms-of-fomo-infographic
 
