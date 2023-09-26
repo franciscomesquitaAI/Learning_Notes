@@ -7,24 +7,6 @@ The tools of probability theory, and of the related field of statistical inferen
 
 **Youtube Free Course link:** https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6
 
-**Symbols used:**
-| Symbol      | Syntax    |
-|:----------- | --------- |
-| >           | >         |
-| <           | <         |
-| =           | =         |
-| $\leq$      | \leq      |
-| $\geq$      | geq       |
-| $\approx$   | \approx   |
-| $\subset$   | \subset   |
-| $\supset$   | \supset   |
-| $\subseteq$ | \subseteq |
-| $\supseteq$ | \supseteq |
-| $\neq$      | \neq      |
-| $\cup$      | \cup      |
-| $\cap$      | \cap      |
-| $\sum$      | \sum      |
-
 # Content
 
-- (Lecture 1: Probability models and axioms)[https://github.com/Francisc17/Learning_Notes/blob/main/Online%20Courses/Introduction%20to%20Probability%20-%20MIT%20RES.6-012/Lecture%201%20-%20Probability%20models%20and%20axioms/Lecture%201%20-%20Probability%20models%20and%20axioms.md]
+- [Lecture 1: Probability models and axioms](https://github.com/Francisc17/Learning_Notes/blob/main/Online%20Courses/Introduction%20to%20Probability%20-%20MIT%20RES.6-012/Lecture%201%20-%20Probability%20models%20and%20axioms/Lecture%201%20-%20Probability%20models%20and%20axioms.md)
