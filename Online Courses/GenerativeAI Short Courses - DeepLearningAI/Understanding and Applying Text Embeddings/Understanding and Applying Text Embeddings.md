@@ -114,6 +114,7 @@ so_df = so_df.drop(so_df.index[-1])
 ## Multi-modal embeddings
 
 Can relate multiple types of inputs:
+
 ![center|500](assets/Understanding%20and%20Applying%20Text%20Embeddings_multi_modal_embeddings.png)
 
 ---
@@ -255,6 +256,7 @@ When we have a dataset comprising questions, answers, and their associated embed
 ### **Best way to measure similarity?**
 
 Options:
+
 ![500|center](assets/Understanding%20and%20Applying%20Text%20Embeddings_optionsmeasuresimilarity.png)
 
 There is no straight answer for the best method (?) but on the course it is used the cosine similarity.
