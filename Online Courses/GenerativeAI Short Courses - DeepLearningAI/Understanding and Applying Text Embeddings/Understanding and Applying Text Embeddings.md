@@ -199,13 +199,17 @@ But how should be the choosing (decoding) strategy?
 - **Random sample**: We might end up with some unusual tokens and very weird words for sentence.
 
 We can controle this with the temperature parameter:
+
 ![center|500](assets/Understanding%20and%20Applying%20Text%20Embeddings_temperatureparameter.png)
 
+
 With temperature = 0, we have a deterministic choice (not creative but reliable):
+
 ![center|500](assets/Understanding%20and%20Applying%20Text%20Embeddings_temperature0.png)
 
 
 As temperature increases, randomness also increase:
+
 ![center|500](assets/Understanding%20and%20Applying%20Text%20Embeddings_temperatureincrease.png)
 
 
