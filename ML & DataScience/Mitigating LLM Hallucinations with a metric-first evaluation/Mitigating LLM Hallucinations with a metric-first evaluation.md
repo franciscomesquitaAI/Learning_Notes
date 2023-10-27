@@ -9,8 +9,11 @@ attachment:
 # Information
 
 Workshop link: https://www.youtube.com/watch?v=u1pNrsR1txA
+
 Apresentation slides: https://docs.google.com/presentation/d/1u_bTwp_WHLGop7ubOIKEO-tAtkdTKkCGJq3ElpaQxzA/edit#slide=id.g291a5494064_0_1261
+
 Paper of the proposed method: [Paper - Galileo ChainPoll: A High Efficacy Method for LLM Hallucination Detection - Galileo (rungalileo.io)](https://www.rungalileo.io/blog/chainpoll)
+
 Date: 26/10/2023
 
 ---
