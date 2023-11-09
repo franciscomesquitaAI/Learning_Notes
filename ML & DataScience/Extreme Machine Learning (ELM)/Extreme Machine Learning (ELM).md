@@ -93,4 +93,4 @@ Presented in the original ELM paper *Extreme learning machine: A new learning sc
 
 
 <ins>Code available on:</ins> 
-	https://drive.google.com/file/d/18d4EBrUFrVZAW5O8csQRMFdg4rd_H8NO/view?usp=sharing
+	[https://drive.google.com/file/d/18d4EBrUFrVZAW5O8csQRMFdg4rd_H8NO/view?usp=sharing](https://colab.research.google.com/drive/10XJ9JoJheOWBoghWHWr4l8NeGR4wqB-p?usp=sharing)
