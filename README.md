@@ -7,13 +7,3 @@ Inside each folder there is a .md file.
 These repository have all the learning note that i take when studying on the most diverse subjects with greater emphasis on topics related to AI and ML.
 
 Enjoy them :D
-
-<p>
- _        ___   ____  ____   ____   ____  ____    ____      ____    ___   ______    ___  _____
-| |      /  _] /    ||    \ |    \ |    ||    \  /    |    |    \  /   \ |      |  /  _]/ ___/
-| |     /  [_ |  o  ||  D  )|  _  | |  | |  _  ||   __|    |  _  ||     ||      | /  [_(   \_ 
-| |___ |    _]|     ||    / |  |  | |  | |  |  ||  |  |    |  |  ||  O  ||_|  |_||    _]\__  |
-|     ||   [_ |  _  ||    \ |  |  | |  | |  |  ||  |_ |    |  |  ||     |  |  |  |   [_ /  \ |
-|     ||     ||  |  ||  .  \|  |  | |  | |  |  ||     |    |  |  ||     |  |  |  |     |\    |
-|_____||_____||__|__||__|\_||__|__||____||__|__||___,_|    |__|__| \___/   |__|  |_____| \___|
-</p>                                                                                           
