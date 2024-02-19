@@ -73,6 +73,8 @@ At a more technical level:
 ---
 # Notes
 
+Some interesting discussions found while taken this course can be seen here: [(Discussion) Probability - The Science of Uncertainty and Data]((Discussion)%20Probability%20-%20The%20Science%20of%20Uncertainty%20and%20Data.md)
+
 <ins>It's important to clarify that I'll only be posting here notes that I've taken from content that complements what is presented in the course or some very important information to remember later. If you want to consult the content of the course, I strongly advise you to check out the following link: https://www.edx.org/learn/probability/massachusetts-institute-of-technology-probability-the-science-of-uncertainty-and-data</ins>
 
 
@@ -105,4 +107,13 @@ Making the calculations:
 - Sum = 16
 
 Good and simple example for understanding the law of total probability: https://youtu.be/U3_783xznQI?t=222
+
+---
+## Lecture 4 - Counting
+
+<ins>Why is 0! = 1 and why it is a convection?</ins>
+
+This video helped me in understanding this: https://www.youtube.com/watch?v=X32dce7_D48
+
+
 
