@@ -115,5 +115,16 @@ Good and simple example for understanding the law of total probability: https://
 
 This video helped me in understanding this: https://www.youtube.com/watch?v=X32dce7_D48
 
+---
+## Lecture 5 - Probability mass functions and expectations
 
+Definition of random variable
+> [!ai]+ AI
+>
+> A random variable is a numerical value that is determined by the outcome of a random experiment or event. It represents the possible values that can result from the experiment or event. Random variables can be discrete, taking on only specific values, or continuous, taking on any value within a certain range. They are typically denoted by capital letters, such as X or Y. Random variables are a fundamental concept in probability theory and statistics, used to describe and analyze uncertain situations and make predictions about future events.
+
+<ins>A function of one or several random variables is also a random variable</ins>
+
+Very good explanation on geometric random variables of the the type P(X>x) with parameter p.
+- https://math.stackexchange.com/questions/1479837/how-to-get-px-x-where-k-is-a-geometric-random-variable-with-parameter-p
 
