@@ -128,3 +128,11 @@ Definition of random variable
 Very good explanation on geometric random variables of the the type P(X>x) with parameter p.
 - https://math.stackexchange.com/questions/1479837/how-to-get-px-x-where-k-is-a-geometric-random-variable-with-parameter-p
 
+Good reasoning for exercise 17:
+To find the interval \[a, b] for the random variable \(X - Y\), we need to consider the extreme cases where X and Y take their extreme values.
+Let's find the extreme values for \(X - Y\):
+- When X is at its maximum (2) and Y is at its minimum (-2), \(X - Y = 2 - (-2) = 4\).
+- When X is at its minimum (-1) and Y is at its maximum (3), \(X - Y = (-1) - 3 = -4\).
+
+So, the interval \[a, b] for \(X - Y\) is \[-4, 4]. Thus, \(a = -4\) and \(b = 4\).
+
