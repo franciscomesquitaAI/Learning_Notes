@@ -36,16 +36,16 @@ The Bongard Problems have been used in educational and research contexts, and ha
 ![](assets/p001.gif?raw=true)
 <mark class="hltr-yellow">Solution:</mark> Empty picture -> Not empty picture
 
-![](assets/p031.gif)
+![](assets/p031.gif?raw=true)
 <mark class="hltr-yellow">Solution:</mark> One line -> Two lines
 
-![](assets/p150.gif)
+![](assets/p150.gif?raw=true)
 <mark class="hltr-yellow">Solution:</mark> Odd number of squares -> Even number of squares
 
-![](assets/p172.gif)
+![](assets/p172.gif?raw=true)
 <mark class="hltr-yellow">Solution:</mark> Radially symmetric -> Not radially symmetric
 
-![](assets/p214.gif)
+![](assets/p214.gif?raw=true)
 <mark class="hltr-yellow">Solution:</mark> Smiley face -> Not a Smiley face
 
 
