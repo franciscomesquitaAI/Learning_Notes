@@ -1,9 +1,9 @@
 ---
 share: true
-path: 'ML-DataScience/Concepts/Bongard-Problems'
+path: ML-DataScience/Concepts/Bongard-Problems
 attachment:
   send: true
-  folder: 'ML-DataScience/Concepts/Bongard-Problems/assets'
+  folder: ML-DataScience/Concepts/Bongard-Problems/assets/
 ---
 # Definition
 
@@ -33,21 +33,20 @@ The Bongard Problems have been used in educational and research contexts, and ha
 ---
 # Examples
 
-![](assets/p001.gif?raw=true)
+![](assets/p001.gif)
 <mark class="hltr-yellow">Solution:</mark> Empty picture -> Not empty picture
 
-![](assets/p031.gif?raw=true)
+![](assets/p031.gif)
 <mark class="hltr-yellow">Solution:</mark> One line -> Two lines
 
-![](assets/p150.gif?raw=true)
+![](assets/p150.gif)
 <mark class="hltr-yellow">Solution:</mark> Odd number of squares -> Even number of squares
 
-![](assets/p172.gif?raw=true)
+![](assets/p172.gif)
 <mark class="hltr-yellow">Solution:</mark> Radially symmetric -> Not radially symmetric
 
-![](assets/p214.gif?raw=true)
+![](assets/p214.gif)
 <mark class="hltr-yellow">Solution:</mark> Smiley face -> Not a Smiley face
 
 
 **Many more examples with solutions here:** [https://www.foundalis.com/res/bps/bpidx.htm](https://www.foundalis.com/res/bps/bpidx.htm)
-
