@@ -1,9 +1,6 @@
 ---
 share: true
 path: ML-DataScience/Concepts/Bongard-Problems
-attachment:
-  send: true
-  folder: ML-DataScience/Concepts/Bongard-Problems/assets/
 ---
 # Definition
 
@@ -33,19 +30,19 @@ The Bongard Problems have been used in educational and research contexts, and ha
 ---
 # Examples
 
-![](/assets/p001.gif)
+![Bongard Problems](https://i.imgur.com/G3D657F.gif)
 <mark class="hltr-yellow">Solution:</mark> Empty picture -> Not empty picture
 
-![](assets/p031.gif)
+![Bongard Problems 1](https://i.imgur.com/02Tk88W.gif)
 <mark class="hltr-yellow">Solution:</mark> One line -> Two lines
 
-![](assets/p150.gif)
+![Bongard Problems 2](https://i.imgur.com/fYxOJup.gif)
 <mark class="hltr-yellow">Solution:</mark> Odd number of squares -> Even number of squares
 
-![](assets/p172.gif)
+![Bongard Problems 3](https://i.imgur.com/AKIe9AG.gif)
 <mark class="hltr-yellow">Solution:</mark> Radially symmetric -> Not radially symmetric
 
-![](assets/p214.gif)
+![Bongard Problems 4](https://i.imgur.com/gScFRmN.gif)
 <mark class="hltr-yellow">Solution:</mark> Smiley face -> Not a Smiley face
 
 
