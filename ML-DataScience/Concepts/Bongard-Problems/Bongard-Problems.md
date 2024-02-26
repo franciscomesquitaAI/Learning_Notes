@@ -33,7 +33,7 @@ The Bongard Problems have been used in educational and research contexts, and ha
 ---
 # Examples
 
-![](/assets/p001.gif)
+![](assets/p001.gif?raw=true)
 <mark class="hltr-yellow">Solution:</mark> Empty picture -> Not empty picture
 
 ![](assets/p031.gif)
