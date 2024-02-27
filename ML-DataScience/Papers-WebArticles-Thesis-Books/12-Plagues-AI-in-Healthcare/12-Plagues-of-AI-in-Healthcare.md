@@ -23,7 +23,7 @@ path: ML-DataScience/Papers-WebArticles-Thesis-Books/12-Plagues-AI-in-Healthcare
 ---
 # The 12 plagues in healthcare 
 
-![image 1](https://i.imgur.com/21a4VE4.png)
+![image|600](https://i.imgur.com/cSA5fNf.png)
 
 ---
 # Problems in AI healthcare models
