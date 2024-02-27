@@ -2,7 +2,9 @@
 share: true
 path: ML-DataScience/Papers-WebArticles-Thesis-Books/The-Rise-of-the-AI-Engineer
 ---
+There are an increasing in the Models, tools and different applications that AI can have. _“In numbers, there's probably going to be significantly more AI Engineers than there are ML engineers / LLM engineers. One can be quite successful in this role without ever training anything.”_ - [Andrej Karpathy](https://twitter.com/karpathy/status/1674873002314563584)
 
+---
 # Information
 
 **Web article link**:  https://www.latent.space/p/ai-engineer
@@ -11,11 +13,9 @@ path: ML-DataScience/Papers-WebArticles-Thesis-Books/The-Rise-of-the-AI-Engineer
 ---
 # Content
 
-_“In numbers, there's probably going to be significantly more AI Engineers than there are ML engineers / LLM engineers. One can be quite successful in this role without ever training anything.”_ - [Andrej Karpathy](https://twitter.com/karpathy/status/1674873002314563584)
-
 ![The Rise of the AI Engineer](https://i.imgur.com/cu0GLfq.png)
 
-There are an increasing in the Models, tools and different applications that AI can have. The author says: "I take this seriously and literally. **I think it** _**is**_ **a full time job**. I think software engineering will spawn a new subdiscipline, specializing in applications of AI and wielding the emerging stack effectively, just as “[site reliability engineer](https://www.enov8.com/blog/the-history-of-sre/)”, “[devops engineer](https://www.bunnyshell.com/blog/history-of-devops/)”, “[data engineer](https://www.freecodecamp.org/news/the-rise-of-the-data-engineer-91be18f1e603/)” and “[analytics engineer](https://www.holistics.io/blog/analytics-engineering-what-we-know/)” emerged. The emerging (and least cringe) version of this role seems to be: **AI Engineer**."
+The author says: "I take this seriously and literally. **I think it** _**is**_ **a full time job**. I think software engineering will spawn a new subdiscipline, specializing in applications of AI and wielding the emerging stack effectively, just as “[site reliability engineer](https://www.enov8.com/blog/the-history-of-sre/)”, “[devops engineer](https://www.bunnyshell.com/blog/history-of-devops/)”, “[data engineer](https://www.freecodecamp.org/news/the-rise-of-the-data-engineer-91be18f1e603/)” and “[analytics engineer](https://www.holistics.io/blog/analytics-engineering-what-we-know/)” emerged. The emerging (and least cringe) version of this role seems to be: **AI Engineer**."
 
 The thousands of Software Engineers working on productionizing AI APIs and OSS models, whether on company time or on nights and weekends, in corporate Slacks or indie Discords, will professionalize and converge on a title - the AI Engineer. **This will likely be the highest-demand engineering job of the decade.**
 
