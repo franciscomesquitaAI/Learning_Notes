@@ -14,7 +14,7 @@ I am using the following website to train: https://learngitbranching.js.org/?loc
 
 - Exercise 1: make two commits to complete the level
 
-![](Learn/Notes/assets/Mastering%20Git%20-%20exercise%201%20commits.png)
+![Mastering Git   exercise 1 commits](https://i.imgur.com/hTMsxSX.png)
 
 ```Bash
 git commit 
@@ -27,7 +27,7 @@ Branches in Git are incredibly lightweight as well. They are simply pointers to 
 
 >Branch early, and branch often 
 
-![](Learn/Notes/assets/Mastering%20Git%20-%20exercise%202%20commits.png)
+![Mastering Git   exercise 2 commits](https://i.imgur.com/FoGhtEW.png)
 
 ```bash
 git checkout -b bugFix
@@ -45,7 +45,7 @@ Instructions:
 5. Commit another time
 6. Merge the branch `bugFix` into `main` with `git merge`
 
-![](Learn/Notes/assets/Mastering%20Git%20-%20exercise%203%20commits.png)
+![Mastering Git   exercise 3 commits](https://i.imgur.com/P1rVmbE.png)
 
 ```bash
 git checkout -b bugFix
@@ -71,7 +71,7 @@ Instructions:
 3. Go back to main and commit again
 4. Check out bugFix again and rebase onto main
 
-![](Learn/Notes/assets/Mastering%20Git%20-%20exercise%204%20commits.png)
+![Mastering Git   exercise 4 commits](https://i.imgur.com/o1nvspV.png)
 
 ```bash
 git checkout -b bugFix
@@ -104,7 +104,7 @@ Instructions:
 
 let's detach HEAD from `bugFix` and attach it to the commit instead. Specify this commit by its hash. The hash for each commit is displayed on the circle that represents the commit.
 
-![](Learn/Notes/assets/Mastering%20Git%20-%20head%20m2.png)
+![Mastering Git   head m2](https://i.imgur.com/tbtU7ES.png)
 
 ```bash
 git checkout C4
@@ -131,7 +131,7 @@ Lets look at the Caret (^) operator first. Each time you append that to a ref na
 Instructions:
 Check out the parent commit of `bugFix`. This will detach `HEAD`. You can specify the hash if you want, but try using relative refs instead!
 
-![](Learn/Notes/assets/Mastering%20Git%20-%20exercise%202%20m2.png)
+![Mastering Git   exercise 2 m2](https://i.imgur.com/H3PQIH3.png)
 
 ```bash
 git checkout bugFix^
@@ -146,7 +146,7 @@ Branch forcing: One of the most common ways I use relative refs is to move branc
 Instructions:
 Move `HEAD`, `main`, and `bugFix` to their goal destinations shown.
 
-![](Learn/Notes/assets/Mastering%20Git%20-%20exercise%203%20m2.png)
+![Mastering Git   exercise 3 m2](https://i.imgur.com/K8JGYvl.png)
 
 ```bash
 git branch -f main C6
