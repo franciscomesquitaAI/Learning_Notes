@@ -1,8 +1,3 @@
----
-share: true
-path: ML-DataScience/Techniques-Frameworks-Methods-Tools/Extreme-Machine-Learning-(ELM)
----
-
 It is a feedforward neural network that uses Moore Penrose generalized inverse to set its weights. ELMs are able to produce acceptable predictive performance and it learn thousands of times more faster than other algorithm and their computational cost is much lower than networks trained by the back propagation algorithm.
 
 ---
