@@ -1,5 +1,6 @@
 ---
-"'yaml path: ML-DataScience/Concepts/Bongard-Problems share: true '"
+path: ML-DataScience/Concepts/Bongard-Problems
+share: true
 ---
 
 # Definition
