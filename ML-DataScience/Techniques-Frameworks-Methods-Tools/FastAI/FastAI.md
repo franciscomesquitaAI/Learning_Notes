@@ -1,10 +1,5 @@
----
-share: true
-path: 'ML & DataScience/Techniques-Frameworks-Methods-Tools/FastAI'
-attachment:
-  send: true
-  folder: 'ML & DataScience/Techniques-Frameworks-Methods-Tools/FastAI/assets'
----
+FastAI is a user-friendly deep learning library that simplifies complex machine learning tasks. It provides pre-built models and tools to make it easier for beginners to create powerful AI applications without needing extensive coding knowledge.
+
 # Higlights:
 
 In general it is a good library to be used with PyTorch in order to make fast ready to use Deep Learning models. I created a model capable of identify if an image was or was not Pizza. below i will write what were the advantages and disadvantages that i found so far:
