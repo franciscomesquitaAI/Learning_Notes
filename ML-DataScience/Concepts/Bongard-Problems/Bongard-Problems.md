@@ -1,7 +1,7 @@
-
 ---
 share: true
-path: 'ML-DataScience/Concepts/Bongard-Problems'
+path: ML-DataScience/Concepts/Bongard-Problems
+visible: false
 ---
 
 
