@@ -1,6 +1,7 @@
 The feeling of apprehension that one is either not in the know about or missing out on information, events, experiences, or life decisions that could make one's life better. FOMO is also associated with a fear of regret, which may lead to concerns that one might miss an opportunity for social interaction, a novel experience, a memorable event, profitable investment or the comfort of those you love and who love you back.
 
 ---
+
 # Sources
 
 - https://www.verywellmind.com/how-to-cope-with-fomo-4174664
