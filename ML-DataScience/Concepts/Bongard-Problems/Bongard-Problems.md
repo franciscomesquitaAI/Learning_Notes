@@ -3,6 +3,8 @@ path: ML-DataScience/Concepts/Bongard-Problems
 share: true
 ---
 
+<style> .markdown-source-view .metadata-property[data-property-key='path'], .markdown-source-view .metadata-property[data-property-key='share'] { display: none; } </style>
+
 # Definition
 
 Bongard problems are a series of logic puzzles designed by the Russian researcher and computer scientist, K. M. Bongard, in the late 1960s. The puzzles consist of two panels of simple, abstract computer-generated images. A participant is asked to identify the relationship between the panels, and to determine the rule which applies to the first panel in order to generate the images in the second. Bongard problems are typically solved by identifying patterns or changes between the two groups of images.
