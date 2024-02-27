@@ -1,9 +1,6 @@
 ---
 share: true
-path: 'ML-DataScience/Techniques-Frameworks-Methods-Tools/Extreme-Machine-Learning-(ELM)'
-attachment:
-  send: true
-  folder: 'ML-DataScience/Techniques-Frameworks-Methods-Tools/Extreme-Machine-Learning-(ELM)/assets'
+path: ML-DataScience/Techniques-Frameworks-Methods-Tools/Extreme-Machine-Learning-(ELM)
 ---
 
 **Sources:**
@@ -34,7 +31,7 @@ It is a feedforward neural network that uses Moore Penrose generalized inverse t
 
 First, we look at standard SLFN (Single hidden Layer Feedforward Neural network):
 
-![](assets/Extreme%20Machine%20Learning%20(ELM)%20-%20ELM%20model%20explanation.png)
+![Extreme Machine Learning (ELM)   ELM model explanation](https://i.imgur.com/p1Sa9Eb.png)
 
 It’s pretty straightforward:
 1. multiply inputs by weights
@@ -66,12 +63,12 @@ Steps:
 4. Use the previous calculated weight matrix to make predictions on new data
 
 Figure 1:
-![300](assets/Extreme%20Machine%20Learning%20(ELM)%20-%20model%20explanation%202.png)
+![Extreme Machine Learning (ELM)   model explanation 2](https://i.imgur.com/OitGWw4.png)
 
 Figure 1 is the ELM network structure which includes n input layer neurons, l hidden layer neurons and m output layer neurons. 
 
 Matrix X (input) and matrix Y (output) can be expressed as:
-![](assets/Extreme%20Machine%20Learning%20(ELM)%20-%20matrixes.png)
+![Extreme Machine Learning (ELM)   matrixes](https://i.imgur.com/iE62Lpy.png)
 
 ---
 ## Reliability and issues
