@@ -63,6 +63,7 @@ Steps:
 4. Use the previous calculated weight matrix to make predictions on new data
 
 Figure 1:
+
 ![Extreme Machine Learning (ELM)   model explanation 2](https://i.imgur.com/OitGWw4.png)
 
 Figure 1 is the ELM network structure which includes n input layer neurons, l hidden layer neurons and m output layer neurons. 
