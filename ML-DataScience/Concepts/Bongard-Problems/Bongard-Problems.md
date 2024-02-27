@@ -1,6 +1,5 @@
 ---
-path: ML-DataScience/Concepts/Bongard-Problems
-share: true
+ML-DataScience/Concepts/Bongard-Problems true
 ---
 # Definition
 
