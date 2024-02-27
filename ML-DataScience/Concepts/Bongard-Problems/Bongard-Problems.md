@@ -1,9 +1,5 @@
 ---
-cssclasses:
-  - none
-path: ML-DataScience/Concepts/Bongard-Problems
-share: true
-remove2: 
+"'comment path: ML-DataScience/Concepts/Bongard-Problems share: true '"
 ---
 
 # Definition
