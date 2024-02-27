@@ -1,7 +1,3 @@
----
-share: true
-path: Other-Topics/Dunning-Kruger-effect
----
 The Dunning-Kruger effect is a type of cognitive bias in which people believe they are smarter and more capable than they are. Essentially, low-ability people do not possess the skills needed to recognize their own incompetence. The combination of poor self-awareness and low cognitive ability leads them to overestimate their capabilities.
 
 As Charles Darwin wrote in his book - The Descent of Man "*Ignorance more frequently begets confidence than does knowledge.*"
