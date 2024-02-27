@@ -2,28 +2,26 @@
 share: true
 path: Other-Topics/Fear-Of-Missing-Out-(FOMO)
 ---
+The feeling of apprehension that one is either not in the know about or missing out on information, events, experiences, or life decisions that could make one's life better. FOMO is also associated with a fear of regret, which may lead to concerns that one might miss an opportunity for social interaction, a novel experience, a memorable event, profitable investment or the comfort of those you love and who love you back.
 
+---
 # Sources
 
 - https://www.verywellmind.com/how-to-cope-with-fomo-4174664
 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8283615/
 - https://www.forbes.com/health/mind/the-psychology-behind-fomo/
 
-
 ---
-
 # Definition
 
 > [!ai]+ AI
 >
 > FOMO, or Fear of Missing Out, is a psychological syndrome characterized by the fear or anxiety of missing out on social events, experiences, or opportunities. It is often fueled by social media platforms and the constant exposure to others' activities and achievements. People with FOMO may feel a strong desire to be constantly connected and involved in order to avoid feelings of exclusion or regret. This syndrome can lead to excessive use of social media, impulsive behavior, and difficulty in enjoying the present moment.
 
-![](Learn/Notes/assets/Fear%20Of%20Missing%20Out%20(FOMO)-2.png)
+![Fear Of Missing Out (FOMO) 2](https://i.imgur.com/ruxN4FY.png)
 https://www.studysmarter.co.uk/magazine/fomo/
 
-
 ---
-
 # History
 
 The idea that you might be missing out on a good time is not new to our era. However, while it has presumably been around for centuries (you can see evidence of FOMO in ancient texts), it has only been studied during the past few decades, beginning with a 1996 research paper by marketing strategist, Dr. Dan Herman, who coined the term "fear of missing out." https://link.springer.com/article/10.1057/bm.2000.23
@@ -36,9 +34,7 @@ Since the advent of social media, however, FOMO has become more obvious and has 
 
 FOMO, or the fear of missing out, isn't a recent phenomenon born with social media; it has deeper historical roots. Erin Vogel, Ph.D., a social psychologist and associate professor at the University of Oklahoma Health Sciences Center, highlights that the need to belong to a group has always been a fundamental human desire. Dr. Vogel also points out that our self-esteem is closely tied to our sense of belonging and approval from a community. When we feel accepted and approved by our peers, our self-esteem thrives, but when we lack that approval, our self-esteem can take a hit.
 
-
 ---
-
 # Related terms
 
 - **FOBO (Fear Of Better Options):** Fearing that you are missing out on potentially better alternatives
@@ -47,9 +43,7 @@ FOMO, or the fear of missing out, isn't a recent phenomenon born with social med
 - **FOJI (Fear Of Joining In):** The fear of sharing things on social media but not garnering any response.
 - **JOMO (Joy Of Missing Out):** This is the opposite of FOMO and refers to positive feelings about missing out or disconnecting from social media.
 
-
 ---
-
 # FOMO Symptoms
 
 Even though FOMO is not currently a diagnosable condition, it can have specific symptoms:
@@ -60,11 +54,10 @@ Even though FOMO is not currently a diagnosable condition, it can have specific 
 - Difficulty concentrating
 - Feeling physically tired, sad, anxious or depressed
 
-![](Learn/Notes/assets/Fear%20Of%20Missing%20Out%20(FOMO)-1.png)
+![Fear Of Missing Out (FOMO) 1](https://i.imgur.com/41BUEPX.png)
 https://www.vecteezy.com/vector-art/2072683-symptoms-of-fomo-infographic
 
 ---
-
 # Research on FOMO
 
 As more research on FOMO is conducted and becomes available, we are getting a clearer picture of what it entails and how it affects us. The picture is not pretty, as there are many negative effects of FOMO, and it is more common than you might expect. Consider the following:
@@ -93,7 +86,6 @@ It appears that FOMO is linked to both feeling a need to engage in social media 
 Aside from increased feelings of unhappiness, fear of missing out can lead to greater involvement in unhealthy behaviors. For example, FOMO was linked to distracted driving, which in some cases can be deadly.
 
 ---
-
 # Resist and overcome FOMO
 
 - **Remember what you’re not seeing on social media:** Remember that people aren’t typically posting the more ordinary aspects of their day, such as working at their computer or cleaning. Not everyone’s day is jam-packed with excitement 24/7.
@@ -108,9 +100,7 @@ Aside from increased feelings of unhappiness, fear of missing out can lead to gr
 
 - **See a therapist:** [cognitive behavioral therapy](https://www.forbes.com/health/mind/what-is-cognitive-behavioral-therapy/) (CBT) can help break habits that are leading to FOMO, such as overusing social media. This type of therapy involves working with a therapist to examine your emotions, thoughts and actions to help regain a sense of control.
 
-
 ---
-
 # Conclusion
 
 Although FOMO is strongly correlated with social media usage, it is important to remember that it is a very real and common feeling among people of all ages. Everyone feels a certain level of FOMO at different times in their lives.
