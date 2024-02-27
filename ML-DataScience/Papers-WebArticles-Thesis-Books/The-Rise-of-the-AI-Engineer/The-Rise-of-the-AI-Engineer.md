@@ -1,7 +1,3 @@
----
-share: true
-path: ML-DataScience/Papers-WebArticles-Thesis-Books/The-Rise-of-the-AI-Engineer
----
 There are an increasing in the Models, tools and different applications that AI can have. _“In numbers, there's probably going to be significantly more AI Engineers than there are ML engineers / LLM engineers. One can be quite successful in this role without ever training anything.”_ - [Andrej Karpathy](https://twitter.com/karpathy/status/1674873002314563584)
 
 ---
