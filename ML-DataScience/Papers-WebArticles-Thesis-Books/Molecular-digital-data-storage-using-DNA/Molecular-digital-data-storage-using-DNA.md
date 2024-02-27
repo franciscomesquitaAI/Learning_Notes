@@ -1,6 +1,5 @@
----
-share: true
-path: ML-DataScience/Papers-WebArticles-Thesis-Books/Molecular-digital-data-storage-using-DNA
+Molecular data storage presents a viable solution to the increasing need for dense and durable information storage. DNA exemplifies effective archival data storage in molecular form. The review outlines the process, current advancements, and challenges for\ mainstream adoption. Additionally, it explores in vivo molecular memory systems, emphasizing the convergence of computer systems and biotechnology.
+
 ---
 
 # Information
@@ -9,6 +8,7 @@ path: ML-DataScience/Papers-WebArticles-Thesis-Books/Molecular-digital-data-stor
 **First author:**  Luis Ceze - https://scholar.google.co.uk/citations?user=KzESVKwAAAAJ&hl=en&oi=ao
 
 ---
+
 # Main topics and ideas
 
 - Molecular data storage is an attractive alternative for dense and durable information storage, which is sorely needed to deal with the growing gap between information production and the ability to store data.
