@@ -1,9 +1,9 @@
 ---
 share: true
-path: 'Online Courses/Mastering Git'
+path: Online Courses/Mastering Git
 attachment:
   send: true
-  folder: 'Online Courses/Mastering Git/assets'
+  folder: Online Courses/Mastering Git/assets
 ---
 # Sources
 
