@@ -1,6 +1,9 @@
----
-share: true
-path: ML-DataScience/Techniques-Frameworks-Methods-Tools/Pydantic
+# Definition
+
+Pydantic is a Python package that can offer simple data validation and manipulation. It was developed to improve the data validation process for developers. Indeed, Pydantic is an API for defining and validating data that is flexible and easy to use, and it integrates seamlessly with Python's data structures.
+
+Developers can specify the Pydantic data validation rules and the data. The library will then automatically validate incoming data and raise errors if any rules are unmet. It makes ensuring project data is consistent and complies with standards easier.
+
 ---
 
 **Sources:**
@@ -8,11 +11,6 @@ path: ML-DataScience/Techniques-Frameworks-Methods-Tools/Pydantic
 - https://www.apptension.com/blog-posts/pydantic
 
 ---
-# Definition
-
-Pydantic is a Python package that can offer simple data validation and manipulation. It was developed to improve the data validation process for developers. Indeed, Pydantic is an API for defining and validating data that is flexible and easy to use, and it integrates seamlessly with Python's data structures.
-
-Developers can specify the Pydantic data validation rules and the data. The library will then automatically validate incoming data and raise errors if any rules are unmet. It makes ensuring project data is consistent and complies with standards easier.
 
 > [!ai]+ AI
 >
