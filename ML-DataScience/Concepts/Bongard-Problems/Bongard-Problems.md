@@ -1,5 +1,5 @@
 ---
-"'comment path: ML-DataScience/Concepts/Bongard-Problems share: true '"
+"'yaml path: ML-DataScience/Concepts/Bongard-Problems share: true '"
 ---
 
 # Definition
