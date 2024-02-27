@@ -1,9 +1,6 @@
 ---
 share: true
-path: 'ML & DataScience/Techniques-Frameworks-Methods-Tools/Pydantic'
-attachment:
-  send: true
-  folder: 'ML & DataScience/Techniques-Frameworks-Methods-Tools/Pydantic/assets'
+path: ML-DataScience/Techniques-Frameworks-Methods-Tools/Pydantic
 ---
 
 **Sources:**
@@ -27,7 +24,7 @@ Developers can specify the Pydantic data validation rules and the data. The libr
 ---
 # Who is using Pydantic?
 
-![](assets/Pasted%20image%2020240129181858.png)
+![Pasted image 20240129181858](https://i.imgur.com/ENtI0rE.png)
 
 ---
 # How does it work?
