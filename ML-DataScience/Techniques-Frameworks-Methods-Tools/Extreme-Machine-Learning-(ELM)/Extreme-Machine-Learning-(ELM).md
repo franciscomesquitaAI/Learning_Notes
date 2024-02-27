@@ -69,6 +69,7 @@ Figure 1:
 Figure 1 is the ELM network structure which includes n input layer neurons, l hidden layer neurons and m output layer neurons. 
 
 Matrix X (input) and matrix Y (output) can be expressed as:
+
 ![Extreme Machine Learning (ELM)   matrixes](https://i.imgur.com/iE62Lpy.png)
 
 ---
