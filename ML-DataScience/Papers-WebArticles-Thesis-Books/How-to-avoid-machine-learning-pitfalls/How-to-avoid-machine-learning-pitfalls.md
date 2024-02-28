@@ -1,7 +1,7 @@
+This guide highlights common mistakes in machine learning and offers tips to prevent them. It's written for research students but understandable for anyone familiar with ML basics. It focuses on academic research concerns, covering five stages: preparation, model building, evaluation, comparison, and reporting.
+
 ---
-share: true
-path: ML-DataScience/Papers-WebArticles-Thesis-Books/How-to-avoid-machine-learning-pitfalls
----
+
 # Information
 
 **Paper link:** https://arxiv.org/abs/2108.02497
