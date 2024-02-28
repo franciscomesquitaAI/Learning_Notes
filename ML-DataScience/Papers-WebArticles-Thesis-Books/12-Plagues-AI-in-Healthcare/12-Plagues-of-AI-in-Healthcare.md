@@ -1,5 +1,7 @@
 The healthcare sector eagerly anticipates leveraging Artificial Intelligence (AI), particularly machine learning (ML), to enhance healthcare delivery. Despite significant investments from medical professionals, data scientists, and Big Tech, AI-based medical devices often fall short of their promised clinical impact, necessitating proactive management of common pitfalls to optimize their efficacy.
 
+---
+
 # Information
 
 **Paper link**: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9110785/pdf/fdgth-04-765406.pdf
