@@ -1,8 +1,3 @@
----
-share: true
-path: Science-Related/Mathematics/Papers-WebArticles/10-Hardest-Math-Problems-That-Remain-Unsolved
----
-
 Despite recent breakthroughs like a supercomputer cracking the Sum of Three Cubes problem after 65 years, mathematicians continue to grapple with centuries-old challenges, reminding us that even the toughest math problems may eventually yield to human perseverance, or perhaps not.
 
 ---
