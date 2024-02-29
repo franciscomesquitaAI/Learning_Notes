@@ -7,3 +7,5 @@ Inside each folder there is a .md file.
 These repository have all the learning note that i take when studying on the most diverse subjects with greater emphasis on topics related to AI and ML.
 
 Enjoy them :D
+
+**See the most relevant notes on my available website:** [https://franciscomesquitaai.github.io](https://franciscomesquitaai.github.io)
