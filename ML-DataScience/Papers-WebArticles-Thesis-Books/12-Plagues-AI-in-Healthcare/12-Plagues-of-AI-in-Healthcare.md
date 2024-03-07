@@ -23,7 +23,7 @@ The healthcare sector eagerly anticipates leveraging Artificial Intelligence (AI
 ---
 # The 12 plagues in healthcare 
 
-![image|600](https://i.imgur.com/cSA5fNf.png)
+![image\|600](https://i.imgur.com/cSA5fNf.png)
 
 ---
 # Problems in AI healthcare models
