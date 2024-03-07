@@ -155,7 +155,7 @@ If someone comes up with an algorithm that can unknot any knot in what’s calle
 
 In the late 19th century, a German mathematician named [Georg Cantor](https://www.popularmechanics.com/science/a9006/a-brief-history-of-infinities-15551427/) figured out that infinity comes in different sizes. Some infinite sets truly have more elements than others in a deep mathematical way, and Cantor proved it.
 
-There is the first infinite size, the smallest infinity, which gets denoted ℵ₀. It’s the size of the set of natural numbers, so that gets written \|ℕ|=ℵ₀. The major example Cantor proved is that the set of real numbers is bigger, written \|ℝ|>ℵ₀. But the reals aren’t that big; we’re just getting started on the infinite sizes.
+There is the first infinite size, the smallest infinity, which gets denoted ℵ₀. It’s the size of the set of natural numbers, so that gets written \|ℕ| = ℵ₀. The major example Cantor proved is that the set of real numbers is bigger, written \|ℝ| > ℵ₀. But the reals aren’t that big; we’re just getting started on the infinite sizes.
 
 For the really big stuff, mathematicians keep discovering larger and larger sizes, or what we call Large Cardinals. It’s a process of pure math that goes like this: Someone says, “I thought of a definition for a cardinal, and I can prove this cardinal is bigger than all the known cardinals.” Then, if their proof is good, that’s the new largest known cardinal. Until someone else comes up with a larger one. There’s now even a [wiki of known large cardinals](https://en.wikipedia.org/wiki/List_of_large_cardinal_properties). So, will this ever end? The answer is broadly yes, although it gets very complicated.
 
