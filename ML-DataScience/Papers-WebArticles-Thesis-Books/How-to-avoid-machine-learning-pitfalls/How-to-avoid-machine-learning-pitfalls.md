@@ -18,7 +18,7 @@ It is a guide to avoid the most common mistakes when applying machine learning. 
 ## Before you start to build models
 
 If you train your model using bad data, then you will most likely generate a bad model: a process known as **garbage in garbage out.**
-![How to avoid machine learning pitfalls garbage|800](https://i.imgur.com/gn2CFTu.jpeg)
+![How to avoid machine learning pitfalls garbage](https://i.imgur.com/gn2CFTu.jpeg)
 
 It’s important to do a literature review before you start work
 
@@ -46,11 +46,11 @@ Do be careful where you optimise hyperparameters and select features:
 
 - If you’re doing cross-validation, then it’s important to carry out feature selection and hyperparameter selection independently within each iteration, using just the training folds. The use of nested cross-validation (aka double cross-validation) uses an extra loop inside to give a more robust evaluation that involve processes such as hyperparameter optimisation or feature selection. Example
 
-![How to avoid machine learning pitfalls hyperparameters|300](https://i.imgur.com/Ocelcx5.png)
+![How to avoid machine learning pitfalls hyperparameters](https://i.imgur.com/Ocelcx5.png)
 
 - Representation of the ideia:
 
-![How to avoid machine learning pitfalls idea representation|600](https://i.imgur.com/LI2JOCE.png)
+![How to avoid machine learning pitfalls idea representation](https://i.imgur.com/LI2JOCE.png)
 
 
 **Do avoid learning spurious correlations:** Spurious correlations are features within data which are correlated with the target variable, but which have no semantic meaning. A classic example is the tank problem. Legend1 has it that the US military were looking to train an ML model that could recognize tanks. However, because the tank pictures used in training were taken during different weather conditions to the non-tank pictures, the model ended up discriminating based on features such as the number of blue pixels in the sky, rather than the presence of a tank.
@@ -68,7 +68,7 @@ Don’t do data augmentation before splitting your data:
 
 Do use a validation set! (Figure below is the perfect example for using validation test on the Deep models training like CNNs)
 
-![How to avoid machine learning pitfalls validation set|600](https://i.imgur.com/swL34Yd.png)
+![How to avoid machine learning pitfalls validation set](https://i.imgur.com/swL34Yd.png)
 
 Do evaluate a model multiple times:
 - Many ML models are unstable. That is, if you train them multiple times, or if you make small changes to the training data, then their performance varies significantly. This means that a single evaluation of a model can be unreliable, and may either underestimate or overestimate the model’s true potential.
