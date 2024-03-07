@@ -114,4 +114,4 @@ The healthcare sector eagerly anticipates leveraging Artificial Intelligence (AI
 -   I liked and agree with all the problems presented. Each problem was explained in an almost perfect and succinct way, where I was able to learn a number of interesting terms and concepts.
 -   The article is not very technical, but the concepts presented are a kind of brief explanation of the obstacles that exist to have better models and usable models in the health area.
 -   Graphical representations of each type of problem could be shown more clearly, but what has been done is clear enough.
--   Overall a must-read for everyone working and exploring health-oriented AI | ML | DL
+-   Overall a must-read for everyone working and exploring health-oriented AI / ML / DL
