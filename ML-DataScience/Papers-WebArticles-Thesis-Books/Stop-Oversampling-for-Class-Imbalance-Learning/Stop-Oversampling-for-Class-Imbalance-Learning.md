@@ -1,7 +1,3 @@
----
-share: true
-path: ML-DataScience/Papers-WebArticles-Thesis-Books/Stop-Oversampling-for-Class-Imbalance-Learning
----
 # Information
 
 **Paper link:** [https://arxiv.org/pdf/2202.03579.pdf](https://arxiv.org/pdf/2202.03579.pdf)
