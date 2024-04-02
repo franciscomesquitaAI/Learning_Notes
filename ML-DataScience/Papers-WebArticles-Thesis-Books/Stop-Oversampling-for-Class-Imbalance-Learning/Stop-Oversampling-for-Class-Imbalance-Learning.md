@@ -19,7 +19,7 @@ Analysis of a large number of oversampling techniques and devised a new oversamp
 
 The major goal of the study is as follows:
 
-	Oversampling in its current forms and methodologies is a misleading approach that should be avoided since it feeds the learning process with falsified instances that are pushed to be members of the minority class when they are most likely members of the majority
+*Oversampling in its current forms and methodologies is a misleading approach that should be avoided since it feeds the learning process with falsified instances that are pushed to be members of the minority class when they are most likely members of the majority*
 
 ---
 # Content notes
@@ -104,7 +104,7 @@ Results for 10%, 25& and 50% hidden examples can be seen below:
 
 **Ranking methods based on their average erro rate:**
 
-![](assets/Stop-Oversampling-rankingmethods.png)
+![Stop Oversampling rankingmethods](https://i.imgur.com/XQVxwSN.png)
 
 As a result:
 - all Oversampling methods validated produce misleading examples, regardless of the hidden percentage or dataset used.
@@ -135,7 +135,7 @@ When applied to real-world tasks, it is possible that the entire machine learnin
 
 \[3]: [https://ieeexplore.ieee.org/document/4633969](https://ieeexplore.ieee.org/document/4633969)
 
-\[4]: https://ieeexplore.ieee.org/document/9045990
+\[4]: [https://ieeexplore.ieee.org/document/9045990](https://ieeexplore.ieee.org/document/9045990)
 
 \[5]: [https://ieeexplore.ieee.org/document/8594869](https://ieeexplore.ieee.org/document/8594869)
 
