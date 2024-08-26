@@ -57,7 +57,7 @@ Splines are the backbone of KAN’s learning mechanism. They replace the traditi
 
 While KAN is based on the Kolmogorov-Arnold representation theorem, it is just as inspired by MLPs, _"leveraging their respective strengths and avoiding their respective weaknesses_". KAN benefits the structure of MLP on the outside, and splines on the inside.
 
-	As a result, KANs can not only learn features (thanks to their external similarity to MLPs), but can also optimize these learned features to great accuracy (thanks to their internal similarity to splines).
+**As a result, KANs can not only learn features (thanks to their external similarity to MLPs), but can also optimize these learned features to great accuracy (thanks to their internal similarity to splines).**
 
 ---
 # Network overview
@@ -99,8 +99,13 @@ The paper focuses mainly on the AI + Science applications of Kolmogorov-Arnold
 ---
 # References
 \[1]: [https://towardsdatascience.com/kolmogorov-arnold-networks-kan-e317b1b4d075](https://towardsdatascience.com/kolmogorov-arnold-networks-kan-e317b1b4d075)
+
 \[2]: [[2007.15884] The Kolmogorov-Arnold representation theorem revisited (arxiv.org)](https://arxiv.org/abs/2007.15884)
+
 \[3]: [highdim.dvi (class-specific.com)](https://www.class-specific.com/csf/papers/hidim.pdf)
+
 \[4]: [The Curse of Dimensionality in Classification (visiondummy.com)](https://www.visiondummy.com/2014/04/curse-dimensionality-affect-classification/)
+
 \[5]: [Basic Principles of Pruning Woody Plants | UGA Cooperative Extension](https://extension.uga.edu/publications/detail.html?number=B949&title=basic-principles-of-pruning-woody-plants)
+
 \[6]: [Algorithms | Free Full-Text | Activation-Based Pruning of Neural Networks (mdpi.com)](https://www.mdpi.com/1999-4893/17/1/48)
