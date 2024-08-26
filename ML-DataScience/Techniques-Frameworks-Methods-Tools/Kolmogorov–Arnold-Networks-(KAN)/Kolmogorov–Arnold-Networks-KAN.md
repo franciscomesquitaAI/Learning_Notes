@@ -1,7 +1,4 @@
----
-share: true
-path: ML-DataScience/Techniques-Frameworks-Methods-Tools/Kolmogorov–Arnold-Networks-(KAN)
----
+A new research called "*KAN: Kolmogorov–Arnold Network*" has created excitement in the machine learning (ML) community. It presents a new perspective on Neural Networks, being a possible alternative to Multi-Layer Perceptrons (MLP), a cornerstone of current ML \[1].
 
 # Information
 
@@ -13,8 +10,6 @@ path: ML-DataScience/Techniques-Frameworks-Methods-Tools/Kolmogorov–Arnold-Net
 
 ---
 # Scientific Breakthrough
-
-A new research called "*KAN: Kolmogorov–Arnold Network*" has created excitement in the machine learning (ML) community. It presents a new perspective on Neural Networks, being a possible alternative to Multi-Layer Perceptrons (MLP), a cornerstone of current ML \[1].
 
 Inspired by Kolmogorov-Arnold representation theorem \[2], KANs diverge from traditional MLPs by replacing fixed activation function with learnable functions, eliminating the need for linear weight matrices.
 
