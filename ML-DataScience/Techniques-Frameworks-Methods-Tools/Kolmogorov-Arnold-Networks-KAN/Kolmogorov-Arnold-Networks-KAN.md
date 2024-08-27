@@ -106,6 +106,6 @@ The paper focuses mainly on the AI + Science applications of Kolmogorov-Arnold
 
 \[4]: [The Curse of Dimensionality in Classification (visiondummy.com)](https://www.visiondummy.com/2014/04/curse-dimensionality-affect-classification/)
 
-\[5]: [Basic Principles of Pruning Woody Plants | UGA Cooperative Extension](https://extension.uga.edu/publications/detail.html?number=B949&title=basic-principles-of-pruning-woody-plants)
+\[5]: [Basic Principles of Pruning Woody Plants - UGA Cooperative Extension](https://extension.uga.edu/publications/detail.html?number=B949&title=basic-principles-of-pruning-woody-plants)
 
-\[6]: [Algorithms | Free Full-Text | Activation-Based Pruning of Neural Networks (mdpi.com)](https://www.mdpi.com/1999-4893/17/1/48)
+\[6]: [Algorithms | Free Full-Text - Activation-Based Pruning of Neural Networks (mdpi.com)](https://www.mdpi.com/1999-4893/17/1/48)
