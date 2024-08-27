@@ -108,4 +108,4 @@ The paper focuses mainly on the AI + Science applications of Kolmogorov-Arnold
 
 \[5]: [Basic Principles of Pruning Woody Plants - UGA Cooperative Extension](https://extension.uga.edu/publications/detail.html?number=B949&title=basic-principles-of-pruning-woody-plants)
 
-\[6]: [Algorithms | Free Full-Text - Activation-Based Pruning of Neural Networks (mdpi.com)](https://www.mdpi.com/1999-4893/17/1/48)
+\[6]: [Algorithms - Free Full-Text - Activation-Based Pruning of Neural Networks (mdpi.com)](https://www.mdpi.com/1999-4893/17/1/48)
