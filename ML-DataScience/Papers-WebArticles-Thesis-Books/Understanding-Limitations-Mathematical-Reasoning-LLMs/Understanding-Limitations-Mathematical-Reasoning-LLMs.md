@@ -4,8 +4,8 @@ This study introduces GSM-Symbolic to address the limitations of current mathema
 
 # Information
 
-**Paper link:** [https://arxiv.org/abs/2410.05229]()
-**First author:** Iman Mirzadeh - https://imirzadeh.me/ / https://scholar.google.com/citations?user=AjKbt44AAAAJ&hl=en
+**Paper link:** [https://arxiv.org/abs/2410.05229](https://arxiv.org/abs/2410.05229)
+**First author:** Iman Mirzadeh - [https://imirzadeh.me](https://imirzadeh.me)/ / [https://scholar.google.com/citations?user=AjKbt44AAAAJ&hl=en](https://scholar.google.com/citations?user=AjKbt44AAAAJ&hl=en)
 
 ---
 
