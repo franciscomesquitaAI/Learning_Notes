@@ -129,7 +129,9 @@ It highlights that while LLMs are somewhat robust to changes in proper names, th
 # References
 
 \[1]: [https://paperswithcode.com/dataset/gsm8k](https://paperswithcode.com/dataset/gsm8k)
+
 \[2]: [https://github.com/qtli/GSM-Plus](https://github.com/qtli/GSM-Plus)
+
 \[3]: [https://arxiv.org/html/2405.00332v1](https://arxiv.org/html/2405.00332v1)
 
 
