@@ -1,6 +1,5 @@
----
-share: true
-path: ML-DataScience/Papers-WebArticles-Thesis-Books/Understanding-Limitations-Mathematical-Reasoning-LLMs
+This study introduces GSM-Symbolic to address the limitations of current mathematical benchmarks, revealing that LLMs struggle with genuine logical reasoning, as their performance significantly deteriorates with minor variations in question structure, such as changes in numerical values or the addition of irrelevant clauses.
+
 ---
 
 # Information
