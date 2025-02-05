@@ -38,7 +38,7 @@ An amazing explanation of the concept from the creator itself (John Conway) can 
 
 I used python with some libraries to create the game of life with a UI that shows how program evolves over time based on the four rules presented above.
 
-The code is available on the following github repository:
+The code is available on this [github repository](https://github.com/franciscomesquitaAI/Learning_Notes/blob/d3747f4cdb7bdafa1689af4e9ec400b65e5bdcd3/Informatic-Related/Techniques-Frameworks-Methods-Tools/Game-Of-Life/Game_Of_Life.ipynb).
 
 Let me show you some example from one of my experiments with random starting values as input:
 
