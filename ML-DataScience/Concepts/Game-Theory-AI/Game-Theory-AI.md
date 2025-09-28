@@ -1,8 +1,3 @@
----
-share: true
-path: ML-DataScience/Concepts/Game-Theory-AI
----
-
 Imagine you’re sitting at a chessboard, calculating your next move. Your goal? Outmaneuver your opponent by predicting their strategy.
 
 Now, take that chessboard and scale it up and this is where **game theory** comes in. Game theory helps us understand decision-making in environments where multiple players (agents) interact, each with their own strategies and payoffs.
