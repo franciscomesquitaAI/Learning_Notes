@@ -1,8 +1,3 @@
----
-share: true
-path: Other-Topics/The-Pygmalion-Effect
----
-
 The Pygmalion effect refers to a psychological phenomenon where higher expectations lead to improved performance in others. First described by Rosenthal and Jacobson in 1968 \[1], it gets its name from the Greek myth of Pygmalion, where a sculptor’s great expectations for his statue result in it coming to life. Essentially, when teachers or leaders expect more of others, those individuals perform better \[2].
 
 ![The Pygmalion Effect 1](https://i.imgur.com/VgtbAsr.png)
