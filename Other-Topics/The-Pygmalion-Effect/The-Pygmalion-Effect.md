@@ -16,7 +16,7 @@ She further points out: "I shall always be a flower girl to Professor Higgins, b
 
 The operation of the Pygmalion effect, similar to that of a self-fulfilling prophecy, can be understood as progressing through 4 stages in a cyclical pattern:
 
-1. 1. Others beliefs about us shape their conduct toward us.
+1. Others beliefs about us shape their conduct toward us.
 
 2. Their conduct toward us influences our beliefs about ourselves.
 
