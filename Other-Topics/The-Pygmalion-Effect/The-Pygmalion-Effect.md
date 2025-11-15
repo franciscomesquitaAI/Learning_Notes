@@ -72,7 +72,9 @@ However, an interview revealed a major disconnect between these expectations and
 
 **The results of the mid-term exam were shocking.** The pass rate was only 48.94%, with an average score of just 68.83 out of 115, directly contradicting the teachers' high hopes. One student's feedback highlighted the core of the problem:
 
+
 > "I felt that the online English learning requirements are enforced on me."
+
 
 This failure occurred not in spite of high expectations, but because of them. The teachers' belief in the students' autonomy led them to design a course heavily reliant on an online learning model that required those exact traits. **Because their initial judgment of the students' readiness was wrong, the very system designed from a place of positive belief was completely misaligned with student reality and destined to fail.** The study concluded it was a result of a "false judgment of students’ autonomy, enforcing (on-line) learning requirement and improper design of test papers."
 
