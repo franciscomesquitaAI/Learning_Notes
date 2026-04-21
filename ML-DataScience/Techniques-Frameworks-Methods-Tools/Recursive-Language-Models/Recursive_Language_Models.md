@@ -1,8 +1,3 @@
----
-share: true
-path: ML-DataScience/Techniques-Frameworks-Methods-Tools/Recursive-Language-Models
----
-
 # Why is “long-context” research so unsatisfactory?
 
 "Context rot" is (as defined by anthropic \[1]):
