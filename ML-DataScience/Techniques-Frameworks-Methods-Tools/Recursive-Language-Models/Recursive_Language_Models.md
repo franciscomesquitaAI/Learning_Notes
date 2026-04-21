@@ -264,7 +264,9 @@ The selected question was:
 
 ## Steps executed
 
-1. First it checks the request
+
+- First it checks the request
+
 
 ```
 ╭─ ▸ Code Execution  (0.000s) ────────────────────────────────────────────────────────────────────────────────────╮
@@ -283,7 +285,9 @@ The selected question was:
 ╰─────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
 ```
 
-2. Open on the requested page
+
+- Open on the requested page
+
 
 ```
 ╭─ ▸ Code Execution  (0.056s) ────────────────────────────────────────────────────────────────────────────────────╮
@@ -392,7 +396,8 @@ The selected question was:
 ```
 
 
-3. Request to summarize and return the result
+- Request to summarize and return the result
+
 
 ```
 ╭─ ▸ Code Execution  (7.373s) ────────────────────────────────────────────────────────────────────────────────────╮
@@ -428,7 +433,8 @@ The selected question was:
 ```
 
 
-4. Final answer!
+- Final answer!
+
 
 ```
 ╭─ ★ Final Answer ────────────────────────────────────────────────────────────────────────────────────────────────╮
