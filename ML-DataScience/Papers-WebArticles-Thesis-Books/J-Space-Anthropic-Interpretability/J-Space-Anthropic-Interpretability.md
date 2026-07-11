@@ -1,8 +1,3 @@
----
-share: true
-path: ML-DataScience/Papers-WebArticles-Thesis-Books/J-Space-Anthropic-Interpretability
----
-
 Anthropic paper presents evidence for a "J-space" in Claude, a small set of internal neural patterns, discovered via a new technique called the Jacobian lens, that functions like a global workspace for deliberate reasoning and self-report, distinct from the model's automatic processing, with direct applications for AI safety monitoring (detecting deception, hidden goals, and evaluation-awareness).
 
 This presents a new opportunity to understand how and if conscious decisions can be made through AI Language Models. 
